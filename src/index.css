@@ -1,12 +1,12 @@
-/* @import url("@hopper-ui/tokens/fonts.css"); */
+@import url("@hopper-ui/tokens/fonts.css");
 
-@font-face {
+/* @font-face {
 	font-family: "ABC Favorit";
 	font-style: normal;
 	font-weight: 410;
 	src: url("https://assets.workleap.com/hopper/fonts/ABCFavorit-Regular.otf") format("opentype");
 	font-display: fallback;
-}
+} */
 
 
 body {
